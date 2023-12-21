@@ -27,6 +27,7 @@ num_of_employees
 Project Flow:
 ![bpmn_diagram](https://github.com/nikitapiko/SP500_Index_Companies/assets/78175001/dd952781-1c6c-4cb9-afbf-a3df7a5b538d)
 
+Preview:
 ![output_91_0](https://github.com/nikitapiko/SP500_Index_Companies/assets/78175001/75f6f788-3f4f-4836-8a9f-9303df5ca4ea)
 
 ![output_92_0](https://github.com/nikitapiko/SP500_Index_Companies/assets/78175001/b68b90c5-f052-4c56-bc88-509be18b6586)
